@@ -17,4 +17,12 @@ To help users improve focus and consistency in completing their day-to-day tasks
 - State Management: Redux Toolkit or Zustand
 - Design: Figma + Tailwind CSS
 
-##  Structure
+## 📁 Structure
+
+├── docs/ # Product documentation (PRDs, specs)
+├── designs/ # Wireframes, Figma exports
+├── frontend/ # React Native app source code
+├── backend/ # Firebase/Supabase config, functions
+├── data-analysis/ # Any research, analytics, or models
+├── marketing/ # Pitch decks, social posts, branding
+└── README.md # Project overview (this file)
